@@ -6,21 +6,20 @@ The user can navigate the room in different locomotion mode, instantiate objects
 A minimap is available for the user to know where he/she is in the environment.
 
 ## Demonstrations
+Here is a demonstration of different aspect of the application:<br/>
 <br/>
-Furniture instantiation and transformation demonstration:
-<br/>
-![alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<br/>
+*Instantiation and transformation of objects:*
 ![Alt Text](Furniture.gif)
 <br/>
-Locomotion demonstration:
+<br/>
+*Locomotion demonstration:*
 <br/>
 ![Alt Text](Locomotion.gif)
 <br/>
-Sensors coverage demonstration:
+<br/>
+*Sensors coverage demonstration:*
 <br/>
 ![Alt Text](Sensors.gif)
-<br/>
 
 ## Requirements
 Unity3D is required to use this project.
