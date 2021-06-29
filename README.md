@@ -1,5 +1,5 @@
 # VR APP : Sensor Coverage Interior
-> a 3D VR application using Unity3D for the placement of Sensors in a room and compute their coverage. This project has been done in the context of [UC SanDiego MOOC: Creating Virtual Reality (VR) Apps](https://www.edx.org/course/creating-virtual-reality-vr-apps-2).
+> A 3D VR application using Unity3D for the placement of Sensors in a room and compute their coverage. <br/> This project has been done in the context of [UC SanDiego MOOC: Creating Virtual Reality (VR) Apps](https://www.edx.org/course/creating-virtual-reality-vr-apps-2).
 
 ## How it works
 The user can navigate the room in different locomotion mode, instantiate objects using a panel and a gaze system. Essentially, the user may place sensors in the room and vary their range. Finally, the button "Compute Coverage" allow the user to know the coverage of the sensors taking in account obstacles and other sensors' range. <br/>
