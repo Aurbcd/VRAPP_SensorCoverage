@@ -8,10 +8,15 @@ A minimap is available for the user to know where he/she is in the environment.
 ## Demonstrations
 <br/>
 Furniture instantiation and transformation demonstration:
+<br/>
 ![Alt Text](Furniture.gif)
+<br/>
 Locomotion demonstration:
+<br/>
 ![Alt Text](Locomotion.gif)
+<br/>
 Sensors coverage demonstration:
+<br/>
 ![Alt Text](Sensors.gif)
 <br/>
 
